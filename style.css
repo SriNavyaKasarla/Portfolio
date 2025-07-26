@@ -10,6 +10,21 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+a i {
+  font-size: 24px;
+  margin-right: 10px;
+  color: #444;
+  transition: 0.3s ease;
+}
+
+a i:hover {
+  color: #0077b5; /* For LinkedIn blue */
+}
+
 
 body {
   background: #e6f0fa;
