@@ -6,6 +6,11 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 body {
   background: #e6f0fa;
   color: #333;
